@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello from Jenkins CI! Build successful.");
+        System.out.println("Build #2 triggered.");
     }
 }
